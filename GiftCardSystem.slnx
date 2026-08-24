@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GiftCardSystem.Api/GiftCardSystem.Api.csproj" />
+  <Project Path="GiftCardSystem.Database/GiftCardSystem.Database.csproj" />
+  <Project Path="GiftCardSystem.Repository/GiftCardSystem.Repository.csproj" />
+  <Project Path="GiftCardSystem.Service/GiftCardSystem.Service.csproj" />
+</Solution>
